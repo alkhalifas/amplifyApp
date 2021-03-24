@@ -8,7 +8,7 @@ function App() {
         <div className="App">
             <header>
                 <img src={logo} className="App-logo" alt="logo" />
-                <h1>We now have Auth Online Again 2?!</h1>
+                <h1>We now have Auth Online New WebHook?!</h1>
             </header>
             <AmplifySignOut />
         </div>
